@@ -1,2 +1,1 @@
-# Adrian-Chipana-C.
-My presentation.
+<h1 align="center"><img src="https://giphy.com/stickers/CompleteSt-sociallyem-lightbulbtolaunch-lightbulb-to-launch-wUzxTGJEEcbbVKabq5", width="30"><b>If you can imagine it, you can program it.</b><img src="https://giphy.com/stickers/computer-laptop-coding-6KirhLJyR7oMcwgJQk"><h1>
